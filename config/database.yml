@@ -20,6 +20,6 @@ test:
 
 production:
   adapter: pg
-  database: whatever
+  database: rstatus
   pool: 5
   timeout: 5000
